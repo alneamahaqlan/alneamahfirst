@@ -8,6 +8,6 @@ class AlneamahfirstServiceProvider extends PackageServiceProvider
 {
     public function configurePackage(Package $package) : void
     {
-        $package->name('alneamah-first')->hasConfigFile();
+        $package->name('alneamahfirst')->hasConfigFile();
     }
 }
