@@ -1,0 +1,17 @@
+{
+    "name": "alneamahaqlan/alneamahfirst",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alneamahaqlan\\Alneamahfirst\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aqlan Al-neamah",
+            "email": "57961876+alneamahaqlan@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
